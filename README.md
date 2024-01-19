@@ -5,3 +5,5 @@ help musician improvise live music with a midi keyboard and a laptop.
 
 MidiEvo loops over a sequence indefinitely as the musician develops
 music on multiple tracks.
+
+![GUI screenshot](./gui_screenshot.png)
